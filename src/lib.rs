@@ -1,3 +1,6 @@
+// From Bogdan's outstanding "Let's Get Rusty" video on CI/CD
+// https://www.youtube.com/watch?v=bw_kseQYxto
+// 
 pub fn add(a: i32, b: i32) -> i32 {
     a + b
 }
